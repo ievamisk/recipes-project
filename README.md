@@ -1,4 +1,4 @@
-# Recipes page
+# Recipe website
 
 ### To launch this project you need to:
 * Create schema 'recipesdb' on local MySQL database 
