@@ -1,3 +1,5 @@
+# Recipes page
+
 ### To launch this project you need to:
 * Create schema 'recipesdb' on local MySQL database 
 * Import data from file 'recipesDB.sql' which is located in 'mysql' folder.
