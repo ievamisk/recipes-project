@@ -1,6 +1,6 @@
 ### To launch this project you need to:
-* create schema 'recipesdb' on local MySQL database 
-* import data from file 'recipesDB.sql' which is located in 'mysql' folder.
+* Create schema 'recipesdb' on local MySQL database 
+* Import data from file 'recipesDB.sql' which is located in 'mysql' folder.
 
 ### About project
 It is recipes page where you can preview and add recipes. Also have favorite recipes and remove them.
