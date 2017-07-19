@@ -9,7 +9,7 @@ It is recipe page where you can preview and add recipes. Also have favorite reci
 This project was created for database lecture in college. 
 Main aim was to use theoretical knowledge of relational databases in practice and create useful application for people usage.
 
-### What have I done
+### What I have done
 This project was developed by two people (me and another student).
 I must mention that I developed large part of this project except part where you can add recipe.
 
